@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCompras.Vistas.Agregarcompra"
+             NavigationPage.HasNavigationBar="False"
+             xmlns:transicion="clr-namespace:Plugin.SharedTransitions;assembly=Plugin.SharedTransitions">
+    
+    <StackLayout BackgroundColor="White">
+        <Image Source="https://cdn-icons-png.flaticon.com/512/130/130882.png"
+               HeightRequest="20"
+               Margin="20"
+               HorizontalOptions="Start">
+            <Image.GestureRecognizers>
+                <TapGestureRecognizer Command="{Binding Volvercommand}"/>
+            </Image.GestureRecognizers>
+        </Image>
+        <StackLayout Padding="36,15"
+                     Spacing="20">
+            <Image Source="{Binding Parametrosrecibe.Icono}"
+                   HeightRequest="220"
+                   HorizontalOptions="Center"
+                   Margin="0,0,0,30"
+                   transicion:Transition.Name="producto" />
+            <Label Text="{Binding Parametrosrecibe.Descripcion}"
+                   FontAttributes="Bold"
+                   FontSize="36"
+                   TextColor="Black"/>
+            <Label Text="{Binding Parametrosrecibe.Peso}"
+                CharacterSpacing="1"
+                TextColor="Gray"
+                Margin="0,-8,0,4"
+                FontSize="14"/>
+            <StackLayout Orientation="Horizontal">
+                <Grid HorizontalOptions="StartAndExpand"
+                      VerticalOptions="Center">
+                    <Frame Padding="0"
+                           BackgroundColor="#eeeeff"
+                           CornerRadius="20"
+                           HasShadow="False"
+                           HeightRequest="40"
+                           VerticalOptions="Center"
+                           WidthRequest="100">
+                        
+                    </Frame>
+                    <Label Text="-"
+                           FontSize="36"
+                           HorizontalOptions="Start"
+                           TextColor="Black"
+                           Margin="16,-2,0,6">
+                        <Label.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding Disminuircommand}" />
+                        </Label.GestureRecognizers>
+                    </Label>
+                    <Label Text="{Binding Cantidad}"
+                           HorizontalOptions="Center"
+                           VerticalOptions="Center"
+                           FontSize="18"
+                           FontAttributes="Bold"
+                           TextColor="Black" />
+                    <Label Text="+"
+                           FontSize="21"
+                           HorizontalOptions="End"
+                           TextColor="Black"
+                           Margin="16,-4,16,0"
+                           VerticalOptions="Center">
+                        <Label.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding Aumentarcommand}"/>
+                        </Label.GestureRecognizers>
+                    </Label>
+                </Grid>
+                <Label Text="{Binding Preciotexto}"
+                       FontAttributes="Bold"
+                       FontSize="36"
+                       TextColor="Black"/>
+            </StackLayout>
+            <Label 
+                Text="Descripcion del producto"
+                FontAttributes="Bold"
+                FontSize="18"
+                TextColor="Black"
+                Margin="0,14,0,0"/>
+            <Label Text="Inoformación general del producto..."
+                   TextColor="Gray"
+                   FontSize="15"/>
+        
+        </StackLayout>
+        
+        <StackLayout Orientation="Horizontal"
+                     Padding="36,0"
+                     HorizontalOptions="FillAndExpand"
+                     VerticalOptions="EndAndExpand"
+                     Margin="0,0,0,20">
+            
+            <Grid HorizontalOptions="Start">
+                <Frame Padding="0"
+                       BackgroundColor="#eeeeff"
+                       HasShadow="False"
+                       HeightRequest="40"
+                       CornerRadius="30"
+                       WidthRequest="40"
+                       VerticalOptions="Center"
+                       HorizontalOptions="Start">
+                    
+                </Frame>
+                <Image Source="https://assets.stickpng.com/images/58afdad0829958a978a4a692.png"
+                       HeightRequest="20"
+                       VerticalOptions="Center"
+                       Margin="10,0"/>
+            </Grid>
+            <Button Text="Agregar al carrito"
+                    BackgroundColor="#febb44"
+                    CornerRadius="40"                    
+                    TextTransform="None"
+                    HeightRequest="54"
+                    WidthRequest="230"
+                    Margin="30,20,0,10"
+                    Command="{Binding Insertarcommand}"/>
+        </StackLayout>
+    </StackLayout>
+    
+</ContentPage>

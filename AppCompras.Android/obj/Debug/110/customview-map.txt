@@ -1,0 +1,82 @@
+@string/appbar_scrolling_view_behavior;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\layout\rootlayout.xml
+adaptive-icon;obj\Debug\110\res\mipmap-anydpi-v26\icon.xml
+adaptive-icon;obj\Debug\110\res\mipmap-anydpi-v26\icon_round.xml
+alpha;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\anim\fade_in.xml
+alpha;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\anim\fade_out.xml
+alpha;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\anim\enterfromleft.xml
+alpha;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\anim\exittoleft.xml
+androidx.appcompat.widget.Toolbar;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\layout\fallbacktoolbardonotuse.xml
+androidx.appcompat.widget.Toolbar;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\layout\rootlayout.xml
+androidx.appcompat.widget.Toolbar;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\layout\shellcontent.xml
+androidx.appcompat.widget.Toolbar;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\layout\toolbar.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\layout\rootlayout.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\layout\shellcontent.xml
+attr;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\values\attrs.xml
+background;obj\Debug\110\res\mipmap-anydpi-v26\icon.xml
+background;obj\Debug\110\res\mipmap-anydpi-v26\icon_round.xml
+cache-path;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\45\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+changeBounds;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\transition\navigation_transition.xml
+changeClipBounds;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\transition\navigation_transition.xml
+changeImageTransform;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\transition\navigation_transition.xml
+changeTransform;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\transition\navigation_transition.xml
+color;obj\Debug\110\res\values\colors.xml
+com.google.android.material.appbar.AppBarLayout;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\layout\flyoutcontent.xml
+com.google.android.material.appbar.AppBarLayout;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\layout\rootlayout.xml
+com.google.android.material.appbar.AppBarLayout;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\layout\shellcontent.xml
+com.google.android.material.bottomnavigation.BottomNavigationView;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\layout\bottomtablayout.xml
+com.google.android.material.tabs.TabLayout;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\layout\fallbacktabbardonotuse.xml
+com.google.android.material.tabs.TabLayout;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\layout\rootlayout.xml
+com.google.android.material.tabs.TabLayout;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\layout\tabbar.xml
+declare-styleable;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\values\attrs.xml
+external-cache-path;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\45\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\45\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\110\res\mipmap-anydpi-v26\icon.xml
+foreground;obj\Debug\110\res\mipmap-anydpi-v26\icon_round.xml
+FrameLayout;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\layout\bottomtablayout.xml
+item;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\values\styles.xml
+item;obj\Debug\110\res\values\styles.xml
+LinearLayout;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\layout\bottomtablayout.xml
+paths;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\45\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+resources;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\values\attrs.xml
+resources;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\values\strings.xml
+resources;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\values\styles.xml
+resources;obj\Debug\110\res\values\colors.xml
+resources;obj\Debug\110\res\values\styles.xml
+scale;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\anim\flip_in.xml
+scale;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\anim\flip_out.xml
+set;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\anim\enter_bottom.xml
+set;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\anim\enter_left.xml
+set;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\anim\enter_right.xml
+set;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\anim\enter_top.xml
+set;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\anim\exit_bottom.xml
+set;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\anim\exit_left.xml
+set;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\anim\exit_right.xml
+set;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\anim\exit_top.xml
+set;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\anim\fade_in.xml
+set;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\anim\fade_out.xml
+set;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\anim\flip_in.xml
+set;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\anim\flip_out.xml
+set;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\anim\enterfromleft.xml
+set;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\anim\enterfromright.xml
+set;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\anim\exittoleft.xml
+set;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\anim\exittoright.xml
+string;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\values\strings.xml
+style;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\values\styles.xml
+style;obj\Debug\110\res\values\styles.xml
+transitionSet;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\transition\navigation_transition.xml
+translate;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\anim\enter_bottom.xml
+translate;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\anim\enter_left.xml
+translate;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\anim\enter_right.xml
+translate;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\anim\enter_top.xml
+translate;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\anim\exit_bottom.xml
+translate;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\anim\exit_left.xml
+translate;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\anim\exit_right.xml
+translate;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\anim\exit_top.xml
+translate;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\anim\flip_in.xml
+translate;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\1\jl\res\anim\flip_out.xml
+translate;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\anim\enterfromleft.xml
+translate;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\anim\enterfromright.xml
+translate;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\anim\exittoleft.xml
+translate;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\anim\exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\layout\rootlayout.xml
+xamarin.forms.platform.android.ShellFlyoutLayout;D:\Visual Studio 2019\Project\AppCompras\AppCompras.Android\obj\Debug\110\lp\47\jl\res\layout\flyoutcontent.xml

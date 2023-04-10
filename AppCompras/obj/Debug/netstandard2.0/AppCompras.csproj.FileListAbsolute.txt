@@ -1,0 +1,16 @@
+D:\Visual Studio 2019\Project\AppCompras\AppCompras\bin\Debug\netstandard2.0\AppCompras.deps.json
+D:\Visual Studio 2019\Project\AppCompras\AppCompras\bin\Debug\netstandard2.0\AppCompras.dll
+D:\Visual Studio 2019\Project\AppCompras\AppCompras\bin\Debug\netstandard2.0\ref\AppCompras.dll
+D:\Visual Studio 2019\Project\AppCompras\AppCompras\bin\Debug\netstandard2.0\AppCompras.pdb
+D:\Visual Studio 2019\Project\AppCompras\AppCompras\obj\Debug\netstandard2.0\AppCompras.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2019\Project\AppCompras\AppCompras\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Visual Studio 2019\Project\AppCompras\AppCompras\obj\Debug\netstandard2.0\Vistas\Agregarcompra.xaml.g.cs
+D:\Visual Studio 2019\Project\AppCompras\AppCompras\obj\Debug\netstandard2.0\Vistas\Compras.xaml.g.cs
+D:\Visual Studio 2019\Project\AppCompras\AppCompras\obj\Debug\netstandard2.0\AppCompras.AssemblyInfoInputs.cache
+D:\Visual Studio 2019\Project\AppCompras\AppCompras\obj\Debug\netstandard2.0\AppCompras.AssemblyInfo.cs
+D:\Visual Studio 2019\Project\AppCompras\AppCompras\obj\Debug\netstandard2.0\AppCompras.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\Project\AppCompras\AppCompras\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Visual Studio 2019\Project\AppCompras\AppCompras\obj\Debug\netstandard2.0\AppCompras.dll
+D:\Visual Studio 2019\Project\AppCompras\AppCompras\obj\Debug\netstandard2.0\ref\AppCompras.dll
+D:\Visual Studio 2019\Project\AppCompras\AppCompras\obj\Debug\netstandard2.0\AppCompras.pdb
+D:\Visual Studio 2019\Project\AppCompras\AppCompras\obj\Debug\netstandard2.0\AppCompras.csproj.AssemblyReference.cache
